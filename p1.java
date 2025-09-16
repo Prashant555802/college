@@ -1,8 +1,8 @@
-public class p1 {jgkfftyjfgyd
+public class p1 {
             public static void main(String[] args) {
-       tfyfdy           //TODO Auto-generated method stubsdetrsd
+           //TODO Auto-generated method stubsdetrsd
                   System.out.println("HELLO WORLD Ro
-                  hc fjfjfhan prashant");ada
+                  hc fjfjfhan prashant");
             }
-}dgs
-""
+}
+
